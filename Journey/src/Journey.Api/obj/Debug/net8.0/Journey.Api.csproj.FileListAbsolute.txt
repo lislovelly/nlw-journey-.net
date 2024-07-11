@@ -68,3 +68,14 @@ c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Api\bin\Debug\net
 c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.AssemblyInfo.cs
+C:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.sourcelink.json
+C:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.dll
+C:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Api\obj\Debug\net8.0\refint\Journey.Api.dll
+C:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.pdb
