@@ -1,0 +1,23 @@
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.deps.json
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.dll
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.pdb
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfo.cs
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.dll
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.deps.json
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.pdb
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfo.cs
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.sourcelink.json
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll

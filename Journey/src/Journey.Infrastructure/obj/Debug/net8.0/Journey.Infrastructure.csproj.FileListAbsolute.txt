@@ -1,0 +1,25 @@
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.deps.json
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.dll
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.pdb
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfo.cs
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.dll
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.deps.json
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.pdb
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfo.cs
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.sourcelink.json
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll

@@ -1,0 +1,39 @@
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.deps.json
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.dll
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.pdb
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Communication.dll
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Exception.dll
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Infrastructure.dll
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Communication.pdb
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Exception.pdb
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Infrastructure.pdb
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.AssemblyReference.cache
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfo.cs
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\obj\Debug\net8.0\Journey..4308BAD8.Up2Date
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.dll
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\obj\Debug\net8.0\refint\Journey.Application.dll
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.pdb
+c:\Users\USER\Desktop\Elisangela\AProjetos\Journey\src\Journey.Application\obj\Debug\net8.0\ref\Journey.Application.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.deps.json
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.pdb
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Communication.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Exception.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Infrastructure.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Communication.pdb
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Exception.pdb
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Infrastructure.pdb
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.AssemblyReference.cache
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfo.cs
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.sourcelink.json
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\obj\Debug\net8.0\Journey..4308BAD8.Up2Date
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\obj\Debug\net8.0\refint\Journey.Application.dll
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.pdb
+c:\Users\USER\Desktop\Elisangela\1Projetos Portfolio\nlw-journey-.net\Journey\src\Journey.Application\obj\Debug\net8.0\ref\Journey.Application.dll
